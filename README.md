@@ -4,7 +4,7 @@ The template project to use in Computer Graphics Class. Includes GLFW, GLAD, glm
 
 For correct download do:
 
-`git clone --recurse-submodule https://github.com/Tanque40/BasicProjectComputerGraphics.git`
+`git clone --recursive https://github.com/Tanque40/BasicProjectComputerGraphics.git`
 
 If you are using VS2019 or VS2022. Double click in your respective `.bat` file
 
