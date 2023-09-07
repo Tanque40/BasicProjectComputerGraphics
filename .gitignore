@@ -4,7 +4,8 @@
 **.vcxproj
 **.vcxproj.**
 **/x64/**
-**/bin/**
+bin/**
+BasicProjectComputerGraphics/vendor/Glad/bin/**
 **/bin-int/**
 
 # Prerequisites
